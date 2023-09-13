@@ -1,5 +1,5 @@
 {
-  "name": "protonlabs/buffertools",
+  "name": "selaz/buffertools",
   "description": "Toolbox for working with binary and hex data. Similar to NodeJS Buffer.",
   "license": "MIT",
   "authors": [
@@ -31,6 +31,6 @@
     "phpstan/phpstan": "v0.9.x"
   },
   "replace": {
-    "bitwasp/buffertools": "^0.5.0"
+    "bitwasp/buffertools": "*"
   }
 }
